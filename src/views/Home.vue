@@ -34,9 +34,21 @@ export default {
         userImage: "https://github.com/SerkanKaanBahsi.png",
         date: new Date().toLocaleDateString(),
         imageUrl:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png",
+          "https://dw9to29mmj727.cloudfront.net/promo/2016/5340-SeriesHeaders_JoJoGW_2000x800_jpg",
         content: "Kotlin",
         likeCount: 25,
+        liked: false,
+      },
+        {
+        id: "6541",
+        comments: [],
+        username: "DonanimciBoy",
+        userImage: "https://github.com/erenterzioglu.png",
+        date: new Date().toLocaleDateString(),
+        imageUrl:
+          "https://www.robotistan.com/esp32-esp-32s-wifi-bluetooth-dual-mode-gelistirme-karti-22602-73-B.jpg",
+        content: "Dikkat! Donanım",
+        likeCount: 0,
         liked: false,
       },
     ],
