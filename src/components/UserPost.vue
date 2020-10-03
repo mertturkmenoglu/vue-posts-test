@@ -1,5 +1,5 @@
 <template>
-  <div class="container card-container">
+  <div class="container card-container mb-5">
     <div class="card shadow-lg custom-card-border px-3 py-2">
       <div class="card-body">
         <div class="card-title d-flex">

@@ -27,6 +27,18 @@ export default {
         likeCount: 5,
         liked: true,
       },
+      {
+        id: "4321",
+        comments: [],
+        username: "SerkanKaanBahsi",
+        userImage: "https://github.com/SerkanKaanBahsi.png",
+        date: new Date().toLocaleDateString(),
+        imageUrl:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png",
+        content: "Kotlin",
+        likeCount: 25,
+        liked: false,
+      },
     ],
   }),
 };
